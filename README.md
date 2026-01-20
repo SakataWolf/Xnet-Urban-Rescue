@@ -164,5 +164,3 @@ Projeto pessoal para estudo, prática e portfólio em desenvolvimento de jogos.
 * Demonstrar capacidade de planejamento e execução
 
 ---
-
-Só me diga qual você quer agora.
